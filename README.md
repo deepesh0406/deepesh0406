@@ -21,9 +21,7 @@ Let's connect!
   </picture>
 </p>
 
-Animated year-long contribution calendar.
 
-GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=deepesh0406&theme=github-dark&mode=light" />
@@ -31,8 +29,7 @@ GitSkins stat widgets will use the **GitHub** theme.
   </picture>
 </p>
 
-> Editing this section in the inspector.
-Highlights repositories as proof of work.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=deepesh0406&theme=github-dark&mode=light" />
@@ -40,7 +37,7 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 
-Contact and social links will appear here.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=deepesh0406&theme=github-dark&mode=light" />
